@@ -150,3 +150,64 @@ Premium resources, tools and educational content.
 
 # 🔥 Current Focus
 
+
+
+---
+
+# 📺 Latest YouTube Videos
+
+
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
+
+---
+
+# 🌎 Featured Projects
+
+
+| Project | Description |
+|---|---|
+| 🛡️ VadaSec | Cybersecurity & Development brand |
+| 🤖 AI Tools | Automation and AI solutions |
+| 🌐 Web Apps | Full Stack applications |
+| 📦 Digital Products | Premium resources |
+| 🛒 GFC Shop | Digital commerce platform |
+
+
+---
+
+# 📈 GitHub Activity
+
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vadasec&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+
+---
+
+# ☕
+
+If my projects help you, you can support my work:
+
+⭐ Star my repositories  
+📺 Subscribe on YouTube  
+💙 Follow VadaSec
+
+
+---
+
+<div align="center">
+
+## Build. Secure. Create.
+
+*"Secure by design. Powered by code. Built for the future."*
+
+</div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:050505&height=120&section=footer"/>
