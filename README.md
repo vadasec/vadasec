@@ -16,9 +16,15 @@ Building secure software, intelligent systems, and digital products.
 <a href="https://youtube.com/@vadasec"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://t.me/vadasec"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
+<br><br>
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=vadasec&label=Profile%20Views&color=0066ff&style=flat" alt="vadasec profile views" />
+
 </div>
 
 <br>
+
 
 ---
 
