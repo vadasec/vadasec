@@ -150,7 +150,17 @@ Premium resources, tools and educational content.
 
 # 🔥 Current Focus
 
+✔ Building AI-powered applications
 
+✔ Improving Web Security
+
+✔ Creating Cybersecurity tutorials
+
+✔ Developing digital products
+
+✔ Growing the VadaSec ecosystem
+
+✔ Open Source contribution
 
 ---
 
@@ -158,6 +168,8 @@ Premium resources, tools and educational content.
 
 
 <!-- YOUTUBE:START -->
+
+https://www.youtube.com/watch?v=F3w8uyOY2fE
 
 <!-- YOUTUBE:END -->
 
