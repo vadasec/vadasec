@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Vadasec
 
-<!--
-**vadasec/vadasec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fullstack Dev** ・ **Cybersec Defense**
 
-Here are some ideas to get you started:
+Everything I build is about protecting and advancing the digital landscape. I leverage fullstack development and cybersecurity principles to build robust tools and defenses for the modern web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Building
+
+*   **Gumroad**: [vadasec.gumroad.com](https://vadasec.gumroad.com)
+*   **Tebex**: [gfcshop.tebex.io](https://gfcshop.tebex.io)
+*   **Reseller**: [santivadala.it/theflipboss](https://santivadala.it/theflipboss)
+
+## Projects
+
+| Project | What It Does |
+| :--- | :--- |
+| **Gumroad** | Digital products and resources |
+| **Tebex Store** | Custom shop solutions |
+| **TheFlipBoss** | Reselling and commercial operations |
+
+## Connect
+
+*   **PayPal**: [paypal.me/vadasec](https://paypal.me/paypalme/vadasec)
+*   **Telegram**: [t.me/vadasec](https://t.me/vadasec)
+*   **YouTube**: [@vadasec](https://www.youtube.com/@vadasec)
+
+---
+*Built with passion for security and code.*
