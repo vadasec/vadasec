@@ -1,87 +1,152 @@
 <div align="center">
 
-# Hi, I'm Vadasec
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:0066ff&height=220&section=header&text=VADASEC&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-### Full Stack Developer ・ Cybersecurity ・ AI ・ Content Creator
+<h2>
+Full Stack Developer • Cybersecurity Researcher • AI Builder
+</h2>
 
-[![Website](https://img.shields.io/badge/Website-santivadala.it-blue?style=for-the-badge)](https://santivadala.it)
-[![YouTube](https://img.shields.io/badge/YouTube-@vadasec-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@vadasec)
-[![Telegram](https://img.shields.io/badge/Telegram-@vadasec-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vadasec)
-[![Gumroad](https://img.shields.io/badge/Gumroad-Store-ff90e8?style=for-the-badge)](https://vadasec.gumroad.com)
-[![Tebex](https://img.shields.io/badge/Tebex-Store-4CAF50?style=for-the-badge)](https://gfcshop.tebex.io)
-[![PayPal](https://img.shields.io/badge/PayPal-Support-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vadasec)
+<p>
+Building secure software, intelligent systems and digital products.
+</p>
+
+<br>
+
+<a href="https://santivadala.it">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="https://youtube.com/@vadasec">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="https://t.me/vadasec">
+<img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+<a href="https://vadasec.gumroad.com">
+<img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=white">
+</a>
+
+<a href="https://gfcshop.tebex.io">
+<img src="https://img.shields.io/badge/Tebex-9146FF?style=for-the-badge">
+</a>
+
+<a href="https://paypal.me/vadasec">
+<img src="https://img.shields.io/badge/Support-00457C?style=for-the-badge&logo=paypal&logoColor=white">
+</a>
 
 </div>
 
----
 
-Everything I build is focused on one mission: creating secure, modern, and useful digital solutions.
-
-I combine **Full Stack Development**, **Cybersecurity**, **Artificial Intelligence**, and **Automation** to build software, digital products, and online businesses that solve real-world problems.
-
-Whether I'm developing a platform, creating educational content, or researching security, my goal is always the same: **build technology that people can trust.**
+<br>
 
 ---
 
-# What I'm Building
+# 👋 About Me
 
-**VadaSec** — My personal brand focused on web development, cybersecurity, AI, and digital innovation.
+I build secure software, AI-powered applications and digital products.
 
-**Digital Products** — Premium templates, scripts, tools, and educational resources.
+My work combines **Full Stack Development, Cybersecurity, Automation and Artificial Intelligence** to create technology that is practical, scalable and built to last.
 
-**TheFlipBoss** — Digital commerce and reselling platform.
+I believe security should not be added after development.
 
-**Content Creation** — Tutorials, videos, and technical guides for developers and cybersecurity enthusiasts.
-
-| Project | What It Does |
-|---------|--------------|
-| 🌐 Web Development | Custom websites & web applications |
-| 🔒 Cybersecurity | Security research & defensive tools |
-| 🤖 Artificial Intelligence | AI automation & integrations |
-| 🎨 Graphic Design | Branding & UI/UX Design |
-| 📦 Digital Products | Templates, scripts & resources |
+It should be part of every decision, every architecture and every line of code.
 
 ---
 
-# Current Focus
+# 🚀 Currently Building
 
-- AI-powered web applications
-- Secure software development
-- Automation workflows
-- Educational cybersecurity content
-- Open-source projects
+<table>
+<tr>
+
+<td width="50%">
+
+### 🛡️ VadaSec
+
+Cybersecurity research, secure development and technical content.
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Projects
+
+Automation tools, AI workflows and intelligent applications.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🌐 Web Applications
+
+Modern websites, SaaS platforms and custom solutions.
+
+</td>
+
+<td>
+
+### 📦 Digital Products
+
+Premium resources, tools and educational content.
+
+</td>
+
+</tr>
+
+</table>
+
 
 ---
 
-# Tech Stack
+# 💻 Tech Stack
 
-**Frontend**
 
-HTML • CSS • JavaScript • Bootstrap • Tailwind CSS
+<div align="center">
 
-**Backend**
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nodejs,html,css,mysql,docker,linux,git,github,figma,ps,openai&perline=8"/>
 
-PHP • Laravel • MySQL • REST API
+</div>
 
-**Tools**
-
-Linux • Git • Docker • VS Code • Figma • Photoshop
-
-**Security**
-
-OWASP • Burp Suite • Nmap • Wireshark • Metasploit
 
 ---
 
-# Connect
+# 📊 GitHub Analytics
 
-- 🌍 Website → https://santivadala.it
-- 📺 YouTube → https://youtube.com/@vadasec
-- 💬 Telegram → https://t.me/vadasec
-- 🛒 Gumroad → https://vadasec.gumroad.com
-- 🛍️ Tebex → https://gfcshop.tebex.io
-- 💰 PayPal → https://paypal.me/vadasec
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vadasec&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadasec&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vadasec&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 
 ---
 
-> **Build. Secure. Create.**
+# 🐍 Contribution Activity
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+
+---
+
+# 🔥 Current Focus
+
