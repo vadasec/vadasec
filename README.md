@@ -1,28 +1,84 @@
-# Hi, I'm Vadasec
+# Hi, I'm Vadasec 👋
 
-**Fullstack Dev** ・ **Cybersec Defense**
+### Full Stack Developer ・ Cybersecurity ・ Digital Creator
 
-Everything I build is about protecting and advancing the digital landscape. I leverage fullstack development and cybersecurity principles to build robust tools and defenses for the modern web.
+Building secure applications, creating digital products, and helping people grow through technology.
 
-## What I'm Building
+Everything I build revolves around one mission: **making technology more secure, accessible, and profitable.**
 
-*   **Gumroad**: [vadasec.gumroad.com](https://vadasec.gumroad.com)
-*   **Tebex**: [gfcshop.tebex.io](https://gfcshop.tebex.io)
-*   **Reseller**: [santivadala.it/theflipboss](https://santivadala.it/theflipboss)
+I combine modern web development with cybersecurity to create websites, applications, automation tools, and digital businesses that solve real problems.
 
-## Projects
-
-| Project | What It Does |
-| :--- | :--- |
-| **Gumroad** | Digital products and resources |
-| **Tebex Store** | Custom shop solutions |
-| **TheFlipBoss** | Reselling and commercial operations |
-
-## Connect
-
-*   **PayPal**: [paypal.me/vadasec](https://paypal.me/paypalme/vadasec)
-*   **Telegram**: [t.me/vadasec](https://t.me/vadasec)
-*   **YouTube**: [@vadasec](https://www.youtube.com/@vadasec)
+Whether it's building a custom platform, protecting online infrastructure, or launching digital products, my goal is always the same: deliver high-quality solutions that people can rely on.
 
 ---
-*Built with passion for security and code.*
+
+# 🚀 What I'm Building
+
+### 🛒 Gumroad
+Premium digital products, templates, scripts, and learning resources.
+
+### 🛍️ Tebex Store
+Custom gaming resources, plugins, and digital services.
+
+### 💼 TheFlipBoss
+Reselling platform focused on business opportunities and online commerce.
+
+---
+
+# 💻 Projects
+
+| Project | What It Does |
+|---------|---------------|
+| 🌐 Websites | Custom websites and web applications |
+| 🔒 Cybersecurity | Security research, penetration testing & defense |
+| 🤖 Automation | AI tools, bots, and workflow automation |
+| 🎨 Graphic Design | Branding, UI/UX, and digital content |
+| 📹 Content Creation | Tutorials, YouTube videos, and educational content |
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+HTML • CSS • JavaScript • PHP • SQL
+
+### Frameworks
+
+Laravel • Bootstrap • TailwindCSS • jQuery
+
+### Tools
+
+Git • Docker • Linux • VS Code • Figma • Photoshop
+
+### Security
+
+OWASP • Burp Suite • Nmap • Wireshark • Metasploit
+
+---
+
+# 🌎 Connect
+
+💳 PayPal  
+https://paypal.me/vadasec
+
+📦 Gumroad  
+https://vadasec.gumroad.com
+
+🛒 Tebex  
+https://gfcshop.tebex.io
+
+💼 TheFlipBoss  
+https://santivadala.it/theflipboss
+
+📺 YouTube  
+https://youtube.com/@vadasec
+
+💬 Telegram  
+https://t.me/vadasec
+
+---
+
+> **"Build. Secure. Create."**
+
+Thanks for visiting my profile. ⭐
