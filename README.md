@@ -41,10 +41,8 @@ My work combines **Full Stack Development, Cybersecurity, Automation, and Artifi
 
 | 🛡️ Cybersecurity & Brand | 🤖 AI, Web & Products |
 | :--- | :--- |
-| **[VadaSec Hub](https://santivadala.it)**<br>Cybersecurity research, secure development and technical tutorials. | **[AI Automation Tools](#)**<br>Building intelligent workflows and AI-powered applications. |
-| **[Open Source Contributions](#)**<br>Improving web security and contributing to community projects. | **[Digital Products](https://gfcshop.tebex.io)**<br>Premium resources, custom SaaS solutions and educational content. |
-
-*(Nota per te: Sostituisci i tag "#" con i link reali alle tue repo GitHub migliori!)*
+| **[VadaSec Hub](https://vadasec.gumroad.com)**<br>Cybersecurity research, secure development and technical tutorials. | **[AI Automation Tools](https://vadasec.gumroad.com)**<br>Building intelligent workflows and AI-powered applications. |
+| **[Open Source Contributions](https://vadasec.gumroad.com)**<br>Improving web security and contributing to community projects. | **[Digital Products](https://gfcshop.tebex.io)**<br>Premium resources, custom SaaS solutions and educational content. |
 
 ---
 
