@@ -1,84 +1,72 @@
-# Hi, I'm Vadasec 👋
+<div align="center">
 
-### Full Stack Developer ・ Cybersecurity ・ Digital Creator
+# Hi, I'm Vadasec
 
-Building secure applications, creating digital products, and helping people grow through technology.
+**Full Stack Development ・ Cybersecurity ・ AI ・ Content Creation ・ Connect**
 
-Everything I build revolves around one mission: **making technology more secure, accessible, and profitable.**
-
-I combine modern web development with cybersecurity to create websites, applications, automation tools, and digital businesses that solve real problems.
-
-Whether it's building a custom platform, protecting online infrastructure, or launching digital products, my goal is always the same: deliver high-quality solutions that people can rely on.
+</div>
 
 ---
 
-# 🚀 What I'm Building
+Everything I build is focused on one goal: helping people and businesses build faster, work smarter, and stay secure.
 
-### 🛒 Gumroad
-Premium digital products, templates, scripts, and learning resources.
+I enjoy combining software development, cybersecurity, automation, and artificial intelligence to create practical products that solve real-world problems.
 
-### 🛍️ Tebex Store
-Custom gaming resources, plugins, and digital services.
-
-### 💼 TheFlipBoss
-Reselling platform focused on business opportunities and online commerce.
+Whether I'm developing a web platform, creating digital products, automating workflows, or researching security, my objective is always the same: build solutions that last.
 
 ---
 
-# 💻 Projects
+## What I'm Building
+
+**VadaSec** is my personal brand where I develop software, share cybersecurity knowledge, and create digital products for developers and entrepreneurs.
+
+**TheFlipBoss** is my reselling platform focused on digital commerce and business opportunities.
+
+**Digital Products** is my collection of templates, scripts, and premium resources available through Gumroad.
+
+**Content Creation** includes tutorials, YouTube videos, and educational content about development, cybersecurity, AI, and online business.
 
 | Project | What It Does |
-|---------|---------------|
-| 🌐 Websites | Custom websites and web applications |
-| 🔒 Cybersecurity | Security research, penetration testing & defense |
-| 🤖 Automation | AI tools, bots, and workflow automation |
-| 🎨 Graphic Design | Branding, UI/UX, and digital content |
-| 📹 Content Creation | Tutorials, YouTube videos, and educational content |
+|---------|--------------|
+| **Web Development** | Modern websites and custom web applications |
+| **Cybersecurity** | Security research and defensive solutions |
+| **Automation** | AI workflows, bots and productivity tools |
+| **Digital Products** | Premium resources for developers |
+| **Graphic Design** | Branding, UI and visual content |
 
 ---
 
-# 🛠️ Tech Stack
+## Skills
 
-### Languages
-
-HTML • CSS • JavaScript • PHP • SQL
-
-### Frameworks
-
-Laravel • Bootstrap • TailwindCSS • jQuery
-
-### Tools
-
-Git • Docker • Linux • VS Code • Figma • Photoshop
-
-### Security
-
-OWASP • Burp Suite • Nmap • Wireshark • Metasploit
+- Full Stack Development
+- Cybersecurity
+- Artificial Intelligence
+- Linux
+- PHP
+- JavaScript
+- Laravel
+- SQL
+- HTML & CSS
+- API Integration
+- UI/UX Design
+- Graphic Design
 
 ---
 
-# 🌎 Connect
+## Current Focus
 
-💳 PayPal  
-https://paypal.me/vadasec
-
-📦 Gumroad  
-https://vadasec.gumroad.com
-
-🛒 Tebex  
-https://gfcshop.tebex.io
-
-💼 TheFlipBoss  
-https://santivadala.it/theflipboss
-
-📺 YouTube  
-https://youtube.com/@vadasec
-
-💬 Telegram  
-https://t.me/vadasec
+- Building AI-powered web applications
+- Creating premium digital products
+- Producing educational cybersecurity content
+- Developing automation tools
+- Growing the VadaSec community
 
 ---
 
-> **"Build. Secure. Create."**
+## Connect
 
-Thanks for visiting my profile. ⭐
+Website ・ YouTube ・ Telegram ・ Gumroad ・ Tebex ・ PayPal ・ GitHub
+
+---
+
+> Build. Secure. Create.
