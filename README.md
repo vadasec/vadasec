@@ -41,7 +41,7 @@ My work combines **Full Stack Development, Cybersecurity, Automation, and Artifi
 
 | 🛡️ Cybersecurity & Brand | 🤖 AI, Web & Products |
 | :--- | :--- |
-| **[VadaSec Hub](https://github.com/vadasec/secguard)**<br>Cybersecurity research, secure development and technical tutorials. | **[AI Automation Tools](https://vadasec.gumroad.com)**<br>Building intelligent workflows and AI-powered applications. |
+| **[VadaSec Hub](https://github.com/vadasec/secguard)**<br>Cybersecurity research, secure development and technical tutorials. | **[AI Automation Tools](https://nyrodevelopment.gumroad.com)**<br>Building intelligent workflows and AI-powered applications. |
 | **[Open Source Contributions](https://github.com/vadasec/PERSONAL-SECURITY-AUDIT-REPORT)**<br>Improving web security and contributing to community projects. | **[Digital Products](https://gfcshop.tebex.io)**<br>Premium resources, custom SaaS solutions and educational content. |
 
 ---
@@ -96,7 +96,7 @@ If my projects help you or you enjoy my content, you can support my work:
 
 <div align="center">
 
-<a href="https://vadasec.gumroad.com"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=white"></a>
+<a href="https://nyrodevelopment.gumroad.com"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=white"></a>
 <a href="https://gfcshop.tebex.io"><img src="https://img.shields.io/badge/Tebex-9146FF?style=for-the-badge"></a>
 <a href="https://paypal.me/vadasec"><img src="https://img.shields.io/badge/Support-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
 
