@@ -13,7 +13,7 @@ Building secure software, intelligent systems, and digital products.
 <br>
 
 <a href="https://santivadala.it"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-<a href="https://youtube.com/@vadasec"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://youtube.com/@santivadaladev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://t.me/vadasec"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 <br><br>
@@ -96,7 +96,7 @@ If my projects help you or you enjoy my content, you can support my work:
 
 <div align="center">
 
-<a href="https://nyrodevelopment.gumroad.com"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=white"></a>
+<a href="https://vadasec.gumroad.com"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=white"></a>
 <a href="https://gfcshop.tebex.io"><img src="https://img.shields.io/badge/Tebex-9146FF?style=for-the-badge"></a>
 <a href="https://paypal.me/vadasec"><img src="https://img.shields.io/badge/Support-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
 
