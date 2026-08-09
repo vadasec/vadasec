@@ -64,7 +64,7 @@ My work combines **Full Stack Development, Cybersecurity, Automation, and Artifi
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=VVILSvV7iME">
-    <img src="https://img.youtube.com/vi/F3w8uyOY2fE/maxresdefault.jpg" width="600" alt="Every AI Assistant Explained in 16 Minutes">
+    <img src="https://i.ytimg.com/vi/VVILSvV7iME/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFQoTTAP&rs=AOn4CLCHm_VT-v3eQuB9NLxiscOKVC_LmQ" width="600" alt="Every AI Assistant Explained in 16 Minutes">
   </a>
   <br>
   <strong><a href="https://www.youtube.com/watch?v=VVILSvV7iME">▶️  Seedance 2 5 AI Vlog Moving Into My First Apartment Alone 2026 </a></strong>
