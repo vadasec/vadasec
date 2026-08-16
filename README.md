@@ -63,11 +63,11 @@ My work combines **Full Stack Development, Cybersecurity, Automation, and Artifi
 # 📺 Latest on YouTube
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=VVILSvV7iME">
-    <img src="https://i.ytimg.com/vi/VVILSvV7iME/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFQoTTAP&rs=AOn4CLCHm_VT-v3eQuB9NLxiscOKVC_LmQ" width="600" alt="Every AI Assistant Explained in 16 Minutes">
+  <a href="https://www.youtube.com/watch?v=NMEN2zsgbzA">
+    <img src="https://i.ytimg.com/vi/NMEN2zsgbzA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhYIGMoZTAP&rs=AOn4CLCXRJ4_Ag3k6partBdfGRq7RnYKPQ" width="600" alt="John Mcafee Life & Death">
   </a>
   <br>
-  <strong><a href="https://www.youtube.com/watch?v=VVILSvV7iME">▶️  Seedance 2 5 AI Vlog Moving Into My First Apartment Alone 2026 </a></strong>
+  <strong><a href="https://www.youtube.com/watch?v=VVILSvV7iME">▶️   The mysterious death of John McAfee left the world with one burning question: what really happened?  </a></strong>
 </div>
 
 ---
