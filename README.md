@@ -13,7 +13,7 @@ Building secure software, intelligent systems, and digital products.
 <br>
 
 <a href="https://santivadala.it"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-<a href="https://youtube.com/@vadsec"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://youtube.com/@gfcshop"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://t.me/vadasec"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 <br><br>
