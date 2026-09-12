@@ -67,7 +67,7 @@ My work combines **Full Stack Development, Cybersecurity, Automation, and Artifi
     <img src="https://i.ytimg.com/vi/NMEN2zsgbzA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhYIGMoZTAP&rs=AOn4CLCXRJ4_Ag3k6partBdfGRq7RnYKPQ" width="600" alt="John Mcafee Life & Death">
   </a>
   <br>
-  <strong><a href="https://www.youtube.com/watch?v=VVILSvV7iME">▶️   The mysterious death of John McAfee left the world with one burning question: what really happened?  </a></strong>
+  <strong><a href="https://www.youtube.com/watch?v=NMEN2zsgbzA">▶️   The mysterious death of John McAfee left the world with one burning question: what really happened?  </a></strong>
 </div>
 
 ---
