@@ -98,7 +98,7 @@ If my projects help you or you enjoy my content, you can support my work:
 
 <a href="https://vadasec.gumroad.com/"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=white"></a>
 <a href="https://gfcshop.tebex.io"><img src="https://img.shields.io/badge/Tebex-9146FF?style=for-the-badge"></a>
-<a href="https://paypal.me/vadasec"><img src="https://img.shields.io/badge/Support-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
+<a href="https://streamelements.com/bettercallromeo_rp/tip"><img src="https://img.shields.io/badge/Support-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
 
 <br><br>
 **⭐ Star my repositories • 📺 Subscribe on YouTube • 💙 Follow VadaSec**
