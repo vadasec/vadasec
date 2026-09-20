@@ -13,6 +13,7 @@ Building secure software, intelligent systems, and digital products.
 <br>
 
 <a href="https://gfcshop.tebex.io/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://youtube.com"><img src="https://shields.io"></a>
 <a href="https://gfcshop.tebex.io/"><img src="https://img.shields.io/badge/Tebex-9146FF?style=for-the-badge"></a>
 <a href="https://tryhackme.com/p/vadasec"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
 
