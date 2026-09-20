@@ -14,7 +14,8 @@ Building secure software, intelligent systems, and digital products.
 
 <a href="https://gfcshop.tebex.io/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 <a href="https://youtube.com/@gfcshop"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://gfcshop.tebex.io/"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black"></a>
+<a href="https://gfcshop.tebex.io/"><img src="https://img.shields.io/badge/Tebex-9146FF?style=for-the-badge"></a>
+<a href="https://tryhackme.com/p/vadasec"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
 
 <br><br>
 
@@ -41,7 +42,7 @@ My work combines **Full Stack Development, Cybersecurity, Automation, and Artifi
 
 | 🛡️ Cybersecurity & Brand | 🤖 AI, Web & Products |
 | :--- | :--- |
-| **[VadaSec Hub](https://github.com/vadasec/secguard)**<br>Cybersecurity research, secure development and technical tutorials. | **[AI Automation Tools](https://nyrodevelopment.gumroad.com)**<br>Building intelligent workflows and AI-powered applications. |
+| **[VadaSec Hub](https://github.com/vadasec/secguard)**<br>Cybersecurity research, secure development and technical tutorials. | **[AI Automation Tools](https://gfcshop.tebex.io)**<br>Building intelligent workflows and AI-powered applications. |
 | **[Open Source Contributions](https://github.com/vadasec/PERSONAL-SECURITY-AUDIT-REPORT)**<br>Improving web security and contributing to community projects. | **[Digital Products](https://gfcshop.tebex.io)**<br>Premium resources, custom SaaS solutions and educational content. |
 
 ---
@@ -96,7 +97,6 @@ If my projects help you or you enjoy my content, you can support my work:
 
 <div align="center">
 
-<a href="https://vadasec.gumroad.com/"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=white"></a>
 <a href="https://gfcshop.tebex.io"><img src="https://img.shields.io/badge/Tebex-9146FF?style=for-the-badge"></a>
 <a href="https://streamelements.com/bettercallromeo_rp/tip"><img src="https://img.shields.io/badge/Support-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
 
